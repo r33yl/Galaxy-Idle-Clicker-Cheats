@@ -4,6 +4,8 @@ A save editor for Galaxy Idle Clicker with a floating in-game panel: quick cheat
 
 > **Warning:** This game has online leaderboard features. Block the game's internet access via your firewall before using cheats to avoid any issues.
 
+<img width="501" height="655" alt="image" src="https://github.com/user-attachments/assets/5c2cfeab-76e9-4008-9ffa-50b90b434599" />
+
 ---
 
 ## Features
