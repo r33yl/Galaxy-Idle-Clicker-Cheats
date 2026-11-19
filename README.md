@@ -96,7 +96,7 @@ The game keeps its state in memory and **autosaves it over the file**, so a plai
 Behavior by amount: with `MAX` numbers are raised to the max listed below, with `+1` / `+10` / `+100` that amount is added. Switches are always turned on. Time and object entries (marked _MAX only_) only work in `MAX` mode.
 
 | Button                     | Description                                                                                                            |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --- |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Resources**              |                                                                                                                        |
 | `Max Multipliers`          | Supernova tab multipliers (including the new seventh tab)                                                              |
 | `All Resources`            | Junk, plasma, energy, garbage, scrap, quarks, antimatter, cosmic dust, supernova essence, light years and their totals |
@@ -129,7 +129,7 @@ Behavior by amount: with `MAX` numbers are raised to the max listed below, with 
 | **Achievements**           |                                                                                                                        |
 | `Achievement Points`       | All achievement categories                                                                                             |
 | `Light Travel Points`      | Light travel, black hole travel and all-time light year points                                                         |
-| **Prestige**               |                                                                                                                        | =   |
+| **Prestige**               |                                                                                                                        |
 | `Supernova Unlocks`        | Unlock supernova and its tab upgrades                                                                                  |
 | `Black Hole Stats`         | Black hole travel count and points, unlock all black hole passives                                                     |
 
